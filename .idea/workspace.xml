@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9159bf94-d172-4ab5-833c-aa80686f6e33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week1/UF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week1/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week1/Percolation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week1/UFeager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week1/UFlazy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week1/UFlazyImproved.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week1/UFlazyImprovedCompression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week1/UF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1/UF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week1/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week1/UF.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/UF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week1/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/main.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -28,9 +35,15 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../percolation" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="week1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
