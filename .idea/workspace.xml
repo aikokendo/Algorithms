@@ -2,9 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9159bf94-d172-4ab5-833c-aa80686f6e33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/week1/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/DijkstraTwoStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/GenericBag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/GenericBagImpWithIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/GenericQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/GenericQueueImpLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/GenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/GenericStackImpLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/GenericStackImpWithIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/QueueOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/QueueOfStringsImpDynArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/QueueOfStringsImpLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/RandomizedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/StackOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/StackOfStringsImpDynArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/StackOfStringsImpFixedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/StackOfStringsImpLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/distinct.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week1/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week1/Percolation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/Percolation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week1/UF.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/UF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week1/UFeager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/UFeager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week1/UFlazy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/UFlazy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week1/UFlazyImproved.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/UFlazyImproved.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week1/UFlazyImprovedCompression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/UFlazyImprovedCompression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week1/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/main.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,14 +56,18 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="E:/Google Drive/Thesis Alejandra Meraz - 2018/Framework" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../queues" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="week2" />
       <recent name="week1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aiko\Downloads\testing\algorithms\.idea" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -49,13 +82,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.BinarySearch" />
+  <component name="RunManager" selected="Application.RandomizedQueue">
+    <configuration name="Deque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.Deque" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.*" />
+          <option name="PATTERN" value="week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.Permutation" />
+      <module name="algorithms" />
+      <option name="PROGRAM_PARAMETERS" value="3 &lt; distinct.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomizedQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.RandomizedQueue" />
+      <module name="algorithms" />
+      <option name="PROGRAM_PARAMETERS" value="3 &lt; distinct.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,17 +138,32 @@
       </method>
     </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="week2.main" />
       <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Deque" />
+      <item itemvalue="Application.main (2)" />
+      <item itemvalue="Application.main (1)" />
+      <item itemvalue="Application.RandomizedQueue" />
+      <item itemvalue="Application.Permutation" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.RandomizedQueue" />
+        <item itemvalue="Application.Permutation" />
+        <item itemvalue="Application.Deque" />
+        <item itemvalue="Application.main (2)" />
         <item itemvalue="Application.main (1)" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +185,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
