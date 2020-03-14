@@ -2,38 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9159bf94-d172-4ab5-833c-aa80686f6e33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/Deque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/DijkstraTwoStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/GenericBag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/GenericBagImpWithIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/GenericQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/GenericQueueImpLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/GenericStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/GenericStackImpLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/GenericStackImpWithIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/QueueOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/QueueOfStringsImpDynArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/QueueOfStringsImpLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/RandomizedQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/StackOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/StackOfStringsImpDynArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/StackOfStringsImpFixedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/StackOfStringsImpLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/distinct.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week2/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/sorting/KnuthShuffle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/sorting/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/sorting/Shuffle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/sorting/ShuffleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/sorting/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week2/sorting/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/Percolation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/Percolation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/UF.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/UF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/UFeager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/UFeager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/UFlazy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/UFlazy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/UFlazyImproved.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/UFlazyImproved.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/UFlazyImprovedCompression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/UFlazyImprovedCompression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/Deque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/DijkstraTwoStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/DijkstraTwoStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/GenericBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/GenericBag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/GenericBagImpWithIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/GenericBagImpWithIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/GenericQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/GenericQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/GenericQueueImpLinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/GenericQueueImpLinkList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/GenericStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/GenericStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/GenericStackImpLinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/GenericStackImpLinkList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/GenericStackImpWithIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/GenericStackImpWithIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/QueueOfStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/QueueOfStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/QueueOfStringsImpDynArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/QueueOfStringsImpDynArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/QueueOfStringsImpLinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/QueueOfStringsImpLinkList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/RandomizedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/RandomizedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/StackOfStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/StackOfStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/StackOfStringsImpDynArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/StackOfStringsImpDynArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/StackOfStringsImpFixedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/StackOfStringsImpFixedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/StackOfStringsImpLinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/StackOfStringsImpLinkList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/distinct.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/distinct.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/Deque$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/Deque$ItemIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/Deque$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/Deque.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/DijkstraTwoStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/GenericBag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/GenericBagImpWithIterator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/GenericBagImpWithIterator$ListIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/GenericBagImpWithIterator$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/GenericBagImpWithIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/GenericQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/GenericQueueImpLinkList$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/GenericQueueImpLinkList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/GenericQueueImpLinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/GenericStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/GenericStackImpLinkList$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/GenericStackImpLinkList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/GenericStackImpLinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/GenericStackImpWithIterator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/GenericStackImpWithIterator$ListIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/GenericStackImpWithIterator$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/GenericStackImpWithIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/QueueOfStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/QueueOfStringsImpDynArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/QueueOfStringsImpLinkList$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/QueueOfStringsImpLinkList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/QueueOfStringsImpLinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/RandomizedQueue$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/RandomizedQueue$ItemIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/RandomizedQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/StackOfStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/StackOfStringsImpDynArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/StackOfStringsImpFixedArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/StackOfStringsImpLinkList$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/StackOfStringsImpLinkList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/StackOfStringsImpLinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week2/main.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +100,7 @@
       <recent name="week1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aiko\Downloads\testing\algorithms\src\main\java\week2\stacksAndQueues" />
       <recent name="C:\Users\aiko\Downloads\testing\algorithms\.idea" />
     </key>
   </component>
@@ -82,13 +116,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RandomizedQueue">
+  <component name="RunManager" selected="Application.main">
     <configuration name="Deque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week2.Deque" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week2.*" />
+          <option name="PATTERN" value="week2.stacksAndQueues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,7 +136,7 @@
       <option name="PROGRAM_PARAMETERS" value="3 &lt; distinct.txt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week2.*" />
+          <option name="PATTERN" value="week2.stacksAndQueues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,7 +150,7 @@
       <option name="PROGRAM_PARAMETERS" value="3 &lt; distinct.txt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week2.*" />
+          <option name="PATTERN" value="week2.stacksAndQueues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.main" />
+    <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.stacksAndQueues.main" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.*" />
+          <option name="PATTERN" value="week2.stacksAndQueues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +172,11 @@
       </method>
     </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.main" />
+      <option name="MAIN_CLASS_NAME" value="week2.sorting.main" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week2.*" />
+          <option name="PATTERN" value="week2.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,18 +186,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Deque" />
-      <item itemvalue="Application.main (2)" />
-      <item itemvalue="Application.main (1)" />
       <item itemvalue="Application.RandomizedQueue" />
       <item itemvalue="Application.Permutation" />
+      <item itemvalue="Application.main (2)" />
+      <item itemvalue="Application.main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.main (2)" />
         <item itemvalue="Application.RandomizedQueue" />
         <item itemvalue="Application.Permutation" />
         <item itemvalue="Application.Deque" />
-        <item itemvalue="Application.main (2)" />
-        <item itemvalue="Application.main (1)" />
       </list>
     </recent_temporary>
   </component>
