@@ -13,6 +13,6 @@ Code exercises and examples following Princeton University Algorithms MOOC cours
 ## Week 2
 + Stacks, Queues and Bags using linked-lists and arrays.
 + Generics and Iterators
-+ Basic Sorting Algorithms
++ Elementary Sorting Algorithms
 + Shuffle Algorithms
 
