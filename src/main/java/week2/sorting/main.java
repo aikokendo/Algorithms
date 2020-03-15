@@ -6,7 +6,7 @@ import java.util.SortedMap;
 public class main {
     public static void main(String[] args){
         Random rand = new Random();
-        int size = 5;
+        int size = 15;
         Integer[] array = new Integer[size];
         for (int i = 0; i < array.length; i++){
             array[i] = rand.nextInt(size);

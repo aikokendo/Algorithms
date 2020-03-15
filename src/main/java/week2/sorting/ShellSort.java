@@ -6,9 +6,9 @@ public class ShellSort implements Sort{
         int N = a.length;
         int h = 1;
         while(h < N/3) {
-            h = 3*h -1; // getting highest num 1,4,13,40... that is under N
+            h = 3*h + 1; // getting highest num 1,4,13,40... that is under N
         }
-
+        System.out.println("h " + h);
         while(h>=1){
             for (int i = h; i < N; i++) { //start at N
                 for (int j = i; j-h >= 0 && less(a[j],a[j-h]); j -=h) {
@@ -16,6 +16,7 @@ public class ShellSort implements Sort{
                 }
             }
             h = h/3;
+            System.out.println("h " + h);
         }
 
     }
