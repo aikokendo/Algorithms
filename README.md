@@ -8,3 +8,11 @@ Code exercises and examples following Princeton University Algorithms MOOC cours
 + Union-Find Data type
 + Percolation: Union-Find application
 + Algorith performance analysis: Big Oh and Tilde notation. Implemented: Binary Search.
+
+
+## Week 2
++ Stacks, Queues and Bags using linked-lists and arrays.
++ Generics and Iterators
++ Basic Sorting Algorithms
++ Shuffle Algorithms
+

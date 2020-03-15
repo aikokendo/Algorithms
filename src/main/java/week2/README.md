@@ -52,3 +52,14 @@ java.util.List - ready implementation for sequence of items. (add,remove,isEmpty
  
  ## Applications
  + Dijkstra Two Stack Algorithm: Manages two stacks to keep track of an Arithmetic expression evaluation.
+ 
+ ## Sorting
+Implementation of the following sorting algorithms:
++ Selection Sort
++ Insertion Sort 
++ Shell Sort
+
+## Shuffle
+Implementation of the following shuffle algorithms:
++ Shuffle Sort
++ Knuth Shuffle
