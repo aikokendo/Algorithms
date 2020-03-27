@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9159bf94-d172-4ab5-833c-aa80686f6e33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3/BottomUpMergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week3/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week3/InsertionSortComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week3/QuickSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week3/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week3/QuickSort3Way.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week3/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week3/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week3/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week3/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week3/main.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +33,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../queues" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../collinear" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />

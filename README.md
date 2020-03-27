@@ -16,3 +16,15 @@ Code exercises and examples following Princeton University Algorithms MOOC cours
 + Elementary Sorting Algorithms
 + Shuffle Algorithms
 
+## Week 3
++ MergeSort and Bottom-up MergeSort
++ Sorting Complexity and Stability
++ QuickSort
++ Selection
+
+## Week 4
++ Priority Queues
+    + Binary Heap
+    + HeapSort
++ Elementary Symbol Table
+    + Binary Search tree
