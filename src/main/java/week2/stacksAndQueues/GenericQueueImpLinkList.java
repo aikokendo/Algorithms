@@ -1,6 +1,9 @@
 package week2.stacksAndQueues;
 
-public class GenericQueueImpLinkList<Item> implements  GenericQueue<Item> {
+import java.util.Iterator;
+import java.util.NoSuchElementException;
+
+public class GenericQueueImpLinkList<Item> implements  GenericQueue<Item>,Iterable<Item> {
     // Not implemented here but:
     // For an Array implementation we require an item casted Object implementation as follows:
     // a = (Item[]) new Object[capacity];
@@ -13,6 +16,22 @@ public class GenericQueueImpLinkList<Item> implements  GenericQueue<Item> {
     private class Node{
         Item item;
         Node next;
+    }
+
+    private class ListIterator implements Iterator<Item> {
+        private Node current = first;
+        public boolean hasNext() {
+            return current!= null;
+        }
+
+        public Item next() {
+            if (!hasNext()){
+                throw new NoSuchElementException();
+            }
+            Item item = current.item;
+            current = current.next;
+            return item;
+        }
     }
 
     public void enqueue(Item item) {
@@ -46,5 +65,9 @@ public class GenericQueueImpLinkList<Item> implements  GenericQueue<Item> {
 
     public int size() {
         return size;
+    }
+
+    public Iterator<Item> iterator() {
+        return new ListIterator();
     }
 }
