@@ -22,7 +22,7 @@ each parent key is greater or equal to the child keys.
        
 
 ## Binary tree
- + empty structure, or notdes with links to both left and right Binary trees.
+ + empty structure, or nodes with links to both left and right Binary trees.
  + Complete Tree: Perfectly balanced tree (ignoring last level)
  
 ## Heap Sort

@@ -3,14 +3,14 @@ package week4.symbolTables;
 import week2.stacksAndQueues.GenericQueueImpLinkList;
 
 public class BST<Key extends Comparable<Key>, Value>{
-    private Node root;
+    protected Node root;
 
-    private class Node{
-        Key key;
-        Value val;
-        Node left; // smaller keys
-        Node right; // larger keys
-        int count;
+    protected class Node{
+        public Key key;
+        public Value val;
+        public Node left; // smaller keys
+        public Node right; // larger keys
+        public int count;
 
         public Node(Key key, Value val, int count){
             this.key = key;
@@ -49,16 +49,16 @@ public class BST<Key extends Comparable<Key>, Value>{
         Node current = root;
         while(current != null){
             int cmp = key.compareTo(current.key);
-            if(cmp<0){ // less
-                current = current.left;
-            }
-            if(cmp>0) { // greater
-                current = current.right;
-            }
-            if(cmp==0){ // match
-                return current.val;
-            }
+        if(cmp<0){ // less
+            current = current.left;
         }
+        if(cmp>0) { // greater
+            current = current.right;
+        }
+        if(cmp==0){ // match
+            return current.val;
+        }
+    }
         return null;
 
     }
@@ -106,7 +106,6 @@ public class BST<Key extends Comparable<Key>, Value>{
         GenericQueueImpLinkList<Key> q = new GenericQueueImpLinkList<>();
         inorder(root,q);
         return q;
-
     }
 
     private void inorder(Node x, GenericQueueImpLinkList<Key> q){

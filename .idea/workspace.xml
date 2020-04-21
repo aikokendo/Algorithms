@@ -2,21 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9159bf94-d172-4ab5-833c-aa80686f6e33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/week4/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week4/priorityQueues/BinaryHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week4/priorityQueues/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week4/priorityQueues/MaxPQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week4/priorityQueues/MaxPQUnorderedImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week4/priorityQueues/MinPQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week4/priorityQueues/MinPQOrderedImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week4/priorityQueues/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week4/symbolTables/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week4/symbolTables/ST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week4/symbolTables/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week5/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week5/IntervalST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week5/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week5/RedBlackBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week5/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/GenericQueueImpLinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/stacksAndQueues/GenericQueueImpLinkList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week2/stacksAndQueues/GenericQueueImpLinkList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week2/stacksAndQueues/GenericQueueImpLinkList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week2/stacksAndQueues/GenericQueueImpLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week2/stacksAndQueues/GenericQueueImpLinkList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week4/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week4/symbolTables/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week4/symbolTables/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/algorithms.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week4/symbolTables/BST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week4/symbolTables/BST$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week4/symbolTables/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week4/symbolTables/BST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week4/symbolTables/OrderedST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week4/symbolTables/OrderedST.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +44,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="week5" />
       <recent name="week2" />
       <recent name="week1" />
     </key>
@@ -66,21 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.main (3)">
-    <configuration name="RandomizedQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.RandomizedQueue" />
-      <module name="algorithms" />
-      <option name="PROGRAM_PARAMETERS" value="3 &lt; distinct.txt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week2.stacksAndQueues.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.main (4)">
     <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week3.main" />
       <module name="algorithms" />
@@ -120,6 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week5.main" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week2.sorting.main" />
       <module name="algorithms" />
@@ -147,19 +145,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RandomizedQueue" />
       <item itemvalue="Application.main (2)" />
       <item itemvalue="Application.main" />
       <item itemvalue="Application.main (1)" />
       <item itemvalue="Application.main (3)" />
+      <item itemvalue="Application.main (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main (4)" />
         <item itemvalue="Application.main (3)" />
         <item itemvalue="Application.main (1)" />
         <item itemvalue="Application.main (3)" />
         <item itemvalue="Application.main" />
-        <item itemvalue="Application.main (2)" />
       </list>
     </recent_temporary>
   </component>
